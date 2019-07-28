@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\App.xaml
-6-1133746702
+8381964776
 
-181011937775
+20-1460547842
 26-783548494
-UserControlLogin.xaml;MainWindow.xaml;UserControlRegisterCourses.xaml;UserControlRegisterStudents.xaml;UserControlTable.xaml;UserControlFindName.xaml;
+UserControlCourseRegistrationTable.xaml;UserControlLogin.xaml;MainWindow.xaml;UserControlRegisterCourses.xaml;UserControlRegisterStudents.xaml;UserControlRevertCourseReg.xaml;UserControlTable.xaml;UserControlFindName.xaml;
 
 False
 
