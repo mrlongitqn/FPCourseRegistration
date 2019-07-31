@@ -123,7 +123,7 @@ namespace FPCourseRegistration
             }
         }
 
-        public void TestConnection(string connectionString)
+        public bool TestConnection(string connectionString)
         {
             MySqlConnection connection = new MySqlConnection(connectionString);
 
@@ -136,7 +136,10 @@ namespace FPCourseRegistration
             catch(Exception ex)
             {
                 MessageBox.Show(ex.Message);
+                return false;
             }
+
+            return true;
         }
 
         public void RegisterCourses(string connectionString, string databaseName, string tableName, string matNumber, ObservableCollection<Course> courses)
