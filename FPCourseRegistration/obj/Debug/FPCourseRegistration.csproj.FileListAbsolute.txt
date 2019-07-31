@@ -36,3 +36,5 @@ F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Deb
 F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Debug\UserControlRegisterCourses.baml
 F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Debug\UserControlCourseRegistrationTable.g.cs
 F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Debug\UserControlCourseRegistrationTable.baml
+F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Debug\UserControlRevertCourseReg.g.cs
+F:\code\repos\visual-studio\C#\FPCourseRegistration\FPCourseRegistration\obj\Debug\UserControlRevertCourseReg.baml
